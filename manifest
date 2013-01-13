@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: My module
+author: Napp
+license: MIT
+copyright: Napp
+
+
+# these should not be edited
+name: nappscrollviewextended
+moduleid: dk.napp.nappscrollviewextended
+guid: 8b30a98b-c061-4f28-ac94-3e5c7cf7ecc9
+platform: iphone
+minsdk: 2.1.4.GA

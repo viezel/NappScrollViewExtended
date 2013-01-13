@@ -44,7 +44,7 @@ var scrollView = NappScrollView.createExtendedScrollView({
 	pullToRefresh:{
 		loadingText: L("Loading"),
 		idleText: L("Pull to refresh..."),
-		triggeredText: L("Release to refresh..."),
+		releaseText: L("Release to refresh..."),
 		color: "#FF0044",
 		arrowColor:"blue",
 		backgroundColor:"#222",

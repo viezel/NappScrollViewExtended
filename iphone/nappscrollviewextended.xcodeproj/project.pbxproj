@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 45;
+	objectVersion = 46;
 	objects = {
 
 /* Begin PBXAggregateTarget section */
@@ -22,22 +22,21 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		24DD6CF91134B3F500162E58 /* DkNappNappscrollviewextendedModule.h in Headers */ = {isa = PBXBuildFile; fileRef = 24DD6CF71134B3F500162E58 /* DkNappNappscrollviewextendedModule.h */; };
-		24DD6CFA1134B3F500162E58 /* DkNappNappscrollviewextendedModule.m in Sources */ = {isa = PBXBuildFile; fileRef = 24DD6CF81134B3F500162E58 /* DkNappNappscrollviewextendedModule.m */; };
-		24DE9E1111C5FE74003F90F6 /* DkNappNappscrollviewextendedModuleAssets.h in Headers */ = {isa = PBXBuildFile; fileRef = 24DE9E0F11C5FE74003F90F6 /* DkNappNappscrollviewextendedModuleAssets.h */; };
-		24DE9E1211C5FE74003F90F6 /* DkNappNappscrollviewextendedModuleAssets.m in Sources */ = {isa = PBXBuildFile; fileRef = 24DE9E1011C5FE74003F90F6 /* DkNappNappscrollviewextendedModuleAssets.m */; };
 		AA747D9F0F9514B9006C5449 /* DkNappNappscrollviewextended_Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = AA747D9E0F9514B9006C5449 /* DkNappNappscrollviewextended_Prefix.pch */; };
 		AACBBE4A0F95108600F1A2B1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AACBBE490F95108600F1A2B1 /* Foundation.framework */; };
-		B6A4440416960AA6000A3C49 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B6A4440216960A9A000A3C49 /* QuartzCore.framework */; };
-		B6A4441516961B9B000A3C49 /* SVPullToRefresh.h in Headers */ = {isa = PBXBuildFile; fileRef = B6A4441016961B9B000A3C49 /* SVPullToRefresh.h */; };
-		B6A4441616961B9B000A3C49 /* UIScrollView+SVInfiniteScrolling.h in Headers */ = {isa = PBXBuildFile; fileRef = B6A4441116961B9B000A3C49 /* UIScrollView+SVInfiniteScrolling.h */; };
-		B6A4441716961B9B000A3C49 /* UIScrollView+SVInfiniteScrolling.m in Sources */ = {isa = PBXBuildFile; fileRef = B6A4441216961B9B000A3C49 /* UIScrollView+SVInfiniteScrolling.m */; };
-		B6A4441816961B9B000A3C49 /* UIScrollView+SVPullToRefresh.h in Headers */ = {isa = PBXBuildFile; fileRef = B6A4441316961B9B000A3C49 /* UIScrollView+SVPullToRefresh.h */; };
-		B6A4441916961B9B000A3C49 /* UIScrollView+SVPullToRefresh.m in Sources */ = {isa = PBXBuildFile; fileRef = B6A4441416961B9B000A3C49 /* UIScrollView+SVPullToRefresh.m */; };
-		B6A4441C16961BF1000A3C49 /* DkNappNappscrollviewextendedExtendedScrollView.h in Headers */ = {isa = PBXBuildFile; fileRef = B6A4441A16961BF1000A3C49 /* DkNappNappscrollviewextendedExtendedScrollView.h */; };
-		B6A4441D16961BF1000A3C49 /* DkNappNappscrollviewextendedExtendedScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = B6A4441B16961BF1000A3C49 /* DkNappNappscrollviewextendedExtendedScrollView.m */; };
-		B6A4442016961C20000A3C49 /* DkNappNappscrollviewextendedExtendedScrollViewProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = B6A4441E16961C20000A3C49 /* DkNappNappscrollviewextendedExtendedScrollViewProxy.h */; };
-		B6A4442116961C20000A3C49 /* DkNappNappscrollviewextendedExtendedScrollViewProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = B6A4441F16961C20000A3C49 /* DkNappNappscrollviewextendedExtendedScrollViewProxy.m */; };
+		E1BC3F0F1ABE627500765909 /* DkNappNappscrollviewextendedExtendedScrollView.h in Headers */ = {isa = PBXBuildFile; fileRef = E1BC3F011ABE627500765909 /* DkNappNappscrollviewextendedExtendedScrollView.h */; };
+		E1BC3F101ABE627500765909 /* DkNappNappscrollviewextendedExtendedScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = E1BC3F021ABE627500765909 /* DkNappNappscrollviewextendedExtendedScrollView.m */; };
+		E1BC3F111ABE627500765909 /* DkNappNappscrollviewextendedExtendedScrollViewProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = E1BC3F031ABE627500765909 /* DkNappNappscrollviewextendedExtendedScrollViewProxy.h */; };
+		E1BC3F121ABE627500765909 /* DkNappNappscrollviewextendedExtendedScrollViewProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = E1BC3F041ABE627500765909 /* DkNappNappscrollviewextendedExtendedScrollViewProxy.m */; };
+		E1BC3F131ABE627500765909 /* DkNappNappscrollviewextendedModule.h in Headers */ = {isa = PBXBuildFile; fileRef = E1BC3F051ABE627500765909 /* DkNappNappscrollviewextendedModule.h */; };
+		E1BC3F141ABE627500765909 /* DkNappNappscrollviewextendedModule.m in Sources */ = {isa = PBXBuildFile; fileRef = E1BC3F061ABE627500765909 /* DkNappNappscrollviewextendedModule.m */; };
+		E1BC3F151ABE627500765909 /* DkNappNappscrollviewextendedModuleAssets.h in Headers */ = {isa = PBXBuildFile; fileRef = E1BC3F071ABE627500765909 /* DkNappNappscrollviewextendedModuleAssets.h */; };
+		E1BC3F161ABE627500765909 /* DkNappNappscrollviewextendedModuleAssets.m in Sources */ = {isa = PBXBuildFile; fileRef = E1BC3F081ABE627500765909 /* DkNappNappscrollviewextendedModuleAssets.m */; };
+		E1BC3F171ABE627500765909 /* SVPullToRefresh.h in Headers */ = {isa = PBXBuildFile; fileRef = E1BC3F0A1ABE627500765909 /* SVPullToRefresh.h */; };
+		E1BC3F181ABE627500765909 /* UIScrollView+SVInfiniteScrolling.h in Headers */ = {isa = PBXBuildFile; fileRef = E1BC3F0B1ABE627500765909 /* UIScrollView+SVInfiniteScrolling.h */; };
+		E1BC3F191ABE627500765909 /* UIScrollView+SVInfiniteScrolling.m in Sources */ = {isa = PBXBuildFile; fileRef = E1BC3F0C1ABE627500765909 /* UIScrollView+SVInfiniteScrolling.m */; };
+		E1BC3F1A1ABE627500765909 /* UIScrollView+SVPullToRefresh.h in Headers */ = {isa = PBXBuildFile; fileRef = E1BC3F0D1ABE627500765909 /* UIScrollView+SVPullToRefresh.h */; };
+		E1BC3F1B1ABE627500765909 /* UIScrollView+SVPullToRefresh.m in Sources */ = {isa = PBXBuildFile; fileRef = E1BC3F0E1ABE627500765909 /* UIScrollView+SVPullToRefresh.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,24 +50,23 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		24DD6CF71134B3F500162E58 /* DkNappNappscrollviewextendedModule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DkNappNappscrollviewextendedModule.h; path = Classes/DkNappNappscrollviewextendedModule.h; sourceTree = "<group>"; };
-		24DD6CF81134B3F500162E58 /* DkNappNappscrollviewextendedModule.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DkNappNappscrollviewextendedModule.m; path = Classes/DkNappNappscrollviewextendedModule.m; sourceTree = "<group>"; };
 		24DD6D1B1134B66800162E58 /* titanium.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = titanium.xcconfig; sourceTree = "<group>"; };
-		24DE9E0F11C5FE74003F90F6 /* DkNappNappscrollviewextendedModuleAssets.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DkNappNappscrollviewextendedModuleAssets.h; path = Classes/DkNappNappscrollviewextendedModuleAssets.h; sourceTree = "<group>"; };
-		24DE9E1011C5FE74003F90F6 /* DkNappNappscrollviewextendedModuleAssets.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DkNappNappscrollviewextendedModuleAssets.m; path = Classes/DkNappNappscrollviewextendedModuleAssets.m; sourceTree = "<group>"; };
 		AA747D9E0F9514B9006C5449 /* DkNappNappscrollviewextended_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DkNappNappscrollviewextended_Prefix.pch; sourceTree = SOURCE_ROOT; };
 		AACBBE490F95108600F1A2B1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		B6A4440216960A9A000A3C49 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
-		B6A4441016961B9B000A3C49 /* SVPullToRefresh.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SVPullToRefresh.h; sourceTree = "<group>"; };
-		B6A4441116961B9B000A3C49 /* UIScrollView+SVInfiniteScrolling.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScrollView+SVInfiniteScrolling.h"; sourceTree = "<group>"; };
-		B6A4441216961B9B000A3C49 /* UIScrollView+SVInfiniteScrolling.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+SVInfiniteScrolling.m"; sourceTree = "<group>"; };
-		B6A4441316961B9B000A3C49 /* UIScrollView+SVPullToRefresh.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScrollView+SVPullToRefresh.h"; sourceTree = "<group>"; };
-		B6A4441416961B9B000A3C49 /* UIScrollView+SVPullToRefresh.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+SVPullToRefresh.m"; sourceTree = "<group>"; };
-		B6A4441A16961BF1000A3C49 /* DkNappNappscrollviewextendedExtendedScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DkNappNappscrollviewextendedExtendedScrollView.h; path = Classes/DkNappNappscrollviewextendedExtendedScrollView.h; sourceTree = "<group>"; };
-		B6A4441B16961BF1000A3C49 /* DkNappNappscrollviewextendedExtendedScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DkNappNappscrollviewextendedExtendedScrollView.m; path = Classes/DkNappNappscrollviewextendedExtendedScrollView.m; sourceTree = "<group>"; };
-		B6A4441E16961C20000A3C49 /* DkNappNappscrollviewextendedExtendedScrollViewProxy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DkNappNappscrollviewextendedExtendedScrollViewProxy.h; path = Classes/DkNappNappscrollviewextendedExtendedScrollViewProxy.h; sourceTree = "<group>"; };
-		B6A4441F16961C20000A3C49 /* DkNappNappscrollviewextendedExtendedScrollViewProxy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DkNappNappscrollviewextendedExtendedScrollViewProxy.m; path = Classes/DkNappNappscrollviewextendedExtendedScrollViewProxy.m; sourceTree = "<group>"; };
 		D2AAC07E0554694100DB518D /* libDkNappNappscrollviewextended.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libDkNappNappscrollviewextended.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		E1BC3F011ABE627500765909 /* DkNappNappscrollviewextendedExtendedScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DkNappNappscrollviewextendedExtendedScrollView.h; path = Classes/DkNappNappscrollviewextendedExtendedScrollView.h; sourceTree = "<group>"; };
+		E1BC3F021ABE627500765909 /* DkNappNappscrollviewextendedExtendedScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DkNappNappscrollviewextendedExtendedScrollView.m; path = Classes/DkNappNappscrollviewextendedExtendedScrollView.m; sourceTree = "<group>"; };
+		E1BC3F031ABE627500765909 /* DkNappNappscrollviewextendedExtendedScrollViewProxy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DkNappNappscrollviewextendedExtendedScrollViewProxy.h; path = Classes/DkNappNappscrollviewextendedExtendedScrollViewProxy.h; sourceTree = "<group>"; };
+		E1BC3F041ABE627500765909 /* DkNappNappscrollviewextendedExtendedScrollViewProxy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DkNappNappscrollviewextendedExtendedScrollViewProxy.m; path = Classes/DkNappNappscrollviewextendedExtendedScrollViewProxy.m; sourceTree = "<group>"; };
+		E1BC3F051ABE627500765909 /* DkNappNappscrollviewextendedModule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DkNappNappscrollviewextendedModule.h; path = Classes/DkNappNappscrollviewextendedModule.h; sourceTree = "<group>"; };
+		E1BC3F061ABE627500765909 /* DkNappNappscrollviewextendedModule.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DkNappNappscrollviewextendedModule.m; path = Classes/DkNappNappscrollviewextendedModule.m; sourceTree = "<group>"; };
+		E1BC3F071ABE627500765909 /* DkNappNappscrollviewextendedModuleAssets.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DkNappNappscrollviewextendedModuleAssets.h; path = Classes/DkNappNappscrollviewextendedModuleAssets.h; sourceTree = "<group>"; };
+		E1BC3F081ABE627500765909 /* DkNappNappscrollviewextendedModuleAssets.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DkNappNappscrollviewextendedModuleAssets.m; path = Classes/DkNappNappscrollviewextendedModuleAssets.m; sourceTree = "<group>"; };
+		E1BC3F0A1ABE627500765909 /* SVPullToRefresh.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SVPullToRefresh.h; sourceTree = "<group>"; };
+		E1BC3F0B1ABE627500765909 /* UIScrollView+SVInfiniteScrolling.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScrollView+SVInfiniteScrolling.h"; sourceTree = "<group>"; };
+		E1BC3F0C1ABE627500765909 /* UIScrollView+SVInfiniteScrolling.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+SVInfiniteScrolling.m"; sourceTree = "<group>"; };
+		E1BC3F0D1ABE627500765909 /* UIScrollView+SVPullToRefresh.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIScrollView+SVPullToRefresh.h"; sourceTree = "<group>"; };
+		E1BC3F0E1ABE627500765909 /* UIScrollView+SVPullToRefresh.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIScrollView+SVPullToRefresh.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,7 +75,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				AACBBE4A0F95108600F1A2B1 /* Foundation.framework in Frameworks */,
-				B6A4440416960AA6000A3C49 /* QuartzCore.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -106,7 +103,6 @@
 		0867D69AFE84028FC02AAC07 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				B6A4440216960A9A000A3C49 /* QuartzCore.framework */,
 				AACBBE490F95108600F1A2B1 /* Foundation.framework */,
 			);
 			name = Frameworks;
@@ -115,15 +111,15 @@
 		08FB77AEFE84172EC02AAC07 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				B6A443F016960A17000A3C49 /* SVPullToRefresh */,
-				24DE9E0F11C5FE74003F90F6 /* DkNappNappscrollviewextendedModuleAssets.h */,
-				24DE9E1011C5FE74003F90F6 /* DkNappNappscrollviewextendedModuleAssets.m */,
-				24DD6CF71134B3F500162E58 /* DkNappNappscrollviewextendedModule.h */,
-				24DD6CF81134B3F500162E58 /* DkNappNappscrollviewextendedModule.m */,
-				B6A4441A16961BF1000A3C49 /* DkNappNappscrollviewextendedExtendedScrollView.h */,
-				B6A4441B16961BF1000A3C49 /* DkNappNappscrollviewextendedExtendedScrollView.m */,
-				B6A4441E16961C20000A3C49 /* DkNappNappscrollviewextendedExtendedScrollViewProxy.h */,
-				B6A4441F16961C20000A3C49 /* DkNappNappscrollviewextendedExtendedScrollViewProxy.m */,
+				E1BC3F011ABE627500765909 /* DkNappNappscrollviewextendedExtendedScrollView.h */,
+				E1BC3F021ABE627500765909 /* DkNappNappscrollviewextendedExtendedScrollView.m */,
+				E1BC3F031ABE627500765909 /* DkNappNappscrollviewextendedExtendedScrollViewProxy.h */,
+				E1BC3F041ABE627500765909 /* DkNappNappscrollviewextendedExtendedScrollViewProxy.m */,
+				E1BC3F051ABE627500765909 /* DkNappNappscrollviewextendedModule.h */,
+				E1BC3F061ABE627500765909 /* DkNappNappscrollviewextendedModule.m */,
+				E1BC3F071ABE627500765909 /* DkNappNappscrollviewextendedModuleAssets.h */,
+				E1BC3F081ABE627500765909 /* DkNappNappscrollviewextendedModuleAssets.m */,
+				E1BC3F091ABE627500765909 /* SVPullToRefresh */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -137,14 +133,14 @@
 			name = "Other Sources";
 			sourceTree = "<group>";
 		};
-		B6A443F016960A17000A3C49 /* SVPullToRefresh */ = {
+		E1BC3F091ABE627500765909 /* SVPullToRefresh */ = {
 			isa = PBXGroup;
 			children = (
-				B6A4441016961B9B000A3C49 /* SVPullToRefresh.h */,
-				B6A4441116961B9B000A3C49 /* UIScrollView+SVInfiniteScrolling.h */,
-				B6A4441216961B9B000A3C49 /* UIScrollView+SVInfiniteScrolling.m */,
-				B6A4441316961B9B000A3C49 /* UIScrollView+SVPullToRefresh.h */,
-				B6A4441416961B9B000A3C49 /* UIScrollView+SVPullToRefresh.m */,
+				E1BC3F0A1ABE627500765909 /* SVPullToRefresh.h */,
+				E1BC3F0B1ABE627500765909 /* UIScrollView+SVInfiniteScrolling.h */,
+				E1BC3F0C1ABE627500765909 /* UIScrollView+SVInfiniteScrolling.m */,
+				E1BC3F0D1ABE627500765909 /* UIScrollView+SVPullToRefresh.h */,
+				E1BC3F0E1ABE627500765909 /* UIScrollView+SVPullToRefresh.m */,
 			);
 			name = SVPullToRefresh;
 			path = Classes/SVPullToRefresh;
@@ -157,14 +153,14 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1BC3F151ABE627500765909 /* DkNappNappscrollviewextendedModuleAssets.h in Headers */,
+				E1BC3F181ABE627500765909 /* UIScrollView+SVInfiniteScrolling.h in Headers */,
+				E1BC3F131ABE627500765909 /* DkNappNappscrollviewextendedModule.h in Headers */,
 				AA747D9F0F9514B9006C5449 /* DkNappNappscrollviewextended_Prefix.pch in Headers */,
-				24DD6CF91134B3F500162E58 /* DkNappNappscrollviewextendedModule.h in Headers */,
-				24DE9E1111C5FE74003F90F6 /* DkNappNappscrollviewextendedModuleAssets.h in Headers */,
-				B6A4441516961B9B000A3C49 /* SVPullToRefresh.h in Headers */,
-				B6A4441616961B9B000A3C49 /* UIScrollView+SVInfiniteScrolling.h in Headers */,
-				B6A4441816961B9B000A3C49 /* UIScrollView+SVPullToRefresh.h in Headers */,
-				B6A4441C16961BF1000A3C49 /* DkNappNappscrollviewextendedExtendedScrollView.h in Headers */,
-				B6A4442016961C20000A3C49 /* DkNappNappscrollviewextendedExtendedScrollViewProxy.h in Headers */,
+				E1BC3F171ABE627500765909 /* SVPullToRefresh.h in Headers */,
+				E1BC3F0F1ABE627500765909 /* DkNappNappscrollviewextendedExtendedScrollView.h in Headers */,
+				E1BC3F111ABE627500765909 /* DkNappNappscrollviewextendedExtendedScrollViewProxy.h in Headers */,
+				E1BC3F1A1ABE627500765909 /* UIScrollView+SVPullToRefresh.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -193,8 +189,11 @@
 /* Begin PBXProject section */
 		0867D690FE84028FC02AAC07 /* Project object */ = {
 			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0600;
+			};
 			buildConfigurationList = 1DEB922208733DC00010E9CD /* Build configuration list for PBXProject "nappscrollviewextended" */;
-			compatibilityVersion = "Xcode 3.1";
+			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 1;
 			knownRegions = (
@@ -235,12 +234,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				24DD6CFA1134B3F500162E58 /* DkNappNappscrollviewextendedModule.m in Sources */,
-				24DE9E1211C5FE74003F90F6 /* DkNappNappscrollviewextendedModuleAssets.m in Sources */,
-				B6A4441716961B9B000A3C49 /* UIScrollView+SVInfiniteScrolling.m in Sources */,
-				B6A4441916961B9B000A3C49 /* UIScrollView+SVPullToRefresh.m in Sources */,
-				B6A4441D16961BF1000A3C49 /* DkNappNappscrollviewextendedExtendedScrollView.m in Sources */,
-				B6A4442116961C20000A3C49 /* DkNappNappscrollviewextendedExtendedScrollViewProxy.m in Sources */,
+				E1BC3F141ABE627500765909 /* DkNappNappscrollviewextendedModule.m in Sources */,
+				E1BC3F101ABE627500765909 /* DkNappNappscrollviewextendedExtendedScrollView.m in Sources */,
+				E1BC3F1B1ABE627500765909 /* UIScrollView+SVPullToRefresh.m in Sources */,
+				E1BC3F161ABE627500765909 /* DkNappNappscrollviewextendedModuleAssets.m in Sources */,
+				E1BC3F121ABE627500765909 /* DkNappNappscrollviewextendedExtendedScrollViewProxy.m in Sources */,
+				E1BC3F191ABE627500765909 /* UIScrollView+SVInfiniteScrolling.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,15 +258,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 24DD6D1B1134B66800162E58 /* titanium.xcconfig */;
 			buildSettings = {
-				ARCHS = (
-					armv6,
-					armv7,
-				);
-				"ARCHS[sdk=iphoneos*]" = (
-					armv6,
-					armv7,
-				);
-				"ARCHS[sdk=iphonesimulator*]" = i386;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DSTROOT = /tmp/DkNappNappscrollviewextended.dst;
@@ -287,6 +277,7 @@
 				GCC_WARN_UNUSED_VALUE = NO;
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				INSTALL_PATH = /usr/local/lib;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LIBRARY_SEARCH_PATHS = "";
 				OTHER_CFLAGS = (
 					"-DDEBUG",
@@ -307,15 +298,6 @@
 			baseConfigurationReference = 24DD6D1B1134B66800162E58 /* titanium.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = (
-					armv6,
-					armv7,
-				);
-				"ARCHS[sdk=iphoneos*]" = (
-					armv6,
-					armv7,
-				);
-				"ARCHS[sdk=iphonesimulator*]" = i386;
 				DSTROOT = /tmp/DkNappNappscrollviewextended.dst;
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_MODEL_TUNING = G5;
@@ -333,7 +315,7 @@
 				GCC_WARN_UNUSED_VALUE = NO;
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				INSTALL_PATH = /usr/local/lib;
-				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LIBRARY_SEARCH_PATHS = "";
 				OTHER_CFLAGS = "-DTI_POST_1_2";
 				OTHER_LDFLAGS = "-ObjC";
@@ -348,15 +330,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 24DD6D1B1134B66800162E58 /* titanium.xcconfig */;
 			buildSettings = {
-				ARCHS = (
-					armv6,
-					armv7,
-				);
-				"ARCHS[sdk=iphoneos*]" = (
-					armv6,
-					armv7,
-				);
-				"ARCHS[sdk=iphonesimulator*]" = i386;
+				CLANG_CXX_LIBRARY = "libstdc++";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DSTROOT = /tmp/DkNappNappscrollviewextended.dst;
@@ -376,6 +350,7 @@
 				GCC_WARN_UNUSED_VALUE = NO;
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				INSTALL_PATH = /usr/local/lib;
+				ONLY_ACTIVE_ARCH = YES;
 				OTHER_CFLAGS = (
 					"-DDEBUG",
 					"-DTI_POST_1_2",
@@ -395,15 +370,7 @@
 			baseConfigurationReference = 24DD6D1B1134B66800162E58 /* titanium.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = (
-					armv6,
-					armv7,
-				);
-				"ARCHS[sdk=iphoneos*]" = (
-					armv6,
-					armv7,
-				);
-				"ARCHS[sdk=iphonesimulator*]" = i386;
+				CLANG_CXX_LIBRARY = "libstdc++";
 				DSTROOT = /tmp/DkNappNappscrollviewextended.dst;
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_MODEL_TUNING = G5;
@@ -421,7 +388,7 @@
 				GCC_WARN_UNUSED_VALUE = NO;
 				GCC_WARN_UNUSED_VARIABLE = NO;
 				INSTALL_PATH = /usr/local/lib;
-				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				OTHER_CFLAGS = "-DTI_POST_1_2";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = DkNappNappscrollviewextended;

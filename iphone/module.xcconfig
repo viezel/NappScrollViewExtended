@@ -24,6 +24,4 @@
 //
 //
 // IMPORTANT NOTE: always use $(inherited) in your overrides
-//
-
-OTHER_LDFLAGS=$(inherited) -framework QuartzCore
+// 
